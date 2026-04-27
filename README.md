@@ -29,5 +29,4 @@ Junior in Statistics and Data Science student in the Honors College at the Unive
 ## Contact
 
 - Email: nathanieldemoro@gmail.com
-- GitHub: [NateDeMoro](https://github.com/NateDeMoro)
 
