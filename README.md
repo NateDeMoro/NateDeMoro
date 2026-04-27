@@ -9,7 +9,7 @@ Statistics and Data Science student in the Honors College at the University of A
 
 ## Highlights
 
-- Winner, University of Arizona 2026 Hackathon — *Nuclear Derating Forecaster*
+- 1st place, Arizona 2026 Hackathon — *Nuclear Derating Forecaster*
 - Dean's List, GPA 3.9
 
 ## Tech
