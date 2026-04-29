@@ -10,10 +10,10 @@ Junior in Statistics and Data Science student in the Honors College at the Unive
 - Dean's List, GPA 3.9
 
 ## Tech
-**Languages:** Python, R, SQL, C++
-**Machine Learning:** scikit-learn, XGBoost, pandas, NumPy, feature engineering, time-series forecasting, model calibration, hyperparameter tuning
-**Data Engineering:** ETL pipelines, schema design, data cleaning & normalization, complex SQL, REST APIs (FastAPI, Flask), Docker
-**Databases & Tools:** PostgreSQL, Neo4j, Cypher, AWS RDS, Git/GitHub, Linux, Railway, Vercel
+- **Languages:** Python, R, SQL, C++
+- **Machine Learning:** scikit-learn, XGBoost, pandas, NumPy, feature engineering, time-series forecasting, model calibration, hyperparameter tuning
+- **Data Engineering:** ETL pipelines, schema design, data cleaning & normalization, complex SQL, REST APIs (FastAPI, Flask), Docker
+- **Databases & Tools:** PostgreSQL, Neo4j, Cypher, AWS RDS, Git/GitHub, Linux, Railway, Vercel
 
 ## Featured Projects
 - **Nuclear Derating Forecaster** — 2026 hackathon-winning forecasting project
