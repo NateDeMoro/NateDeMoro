@@ -7,7 +7,7 @@ Junior in Statistics and Data Science student in the Honors College at the Unive
 
 ## Highlights
 - 1st place, Arizona 2026 Hackathon — *Nuclear Derating Forecaster*
-- Dean's List, GPA 3.9
+- Dean's List, GPA 3.8
 
 ## Tech
 - **Languages:** Python, R, SQL, C++
