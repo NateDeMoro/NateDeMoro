@@ -2,7 +2,7 @@
 Junior in Statistics and Data Science student in the Honors College at the University of Arizona, with minors in Mathematics and Computer Science. Interested in machine learning, statistical modeling, and quantitative finance.
 
 ## Work
-- Data Engineering Intern at Credit One (Summer 2026)
+- Software Engineering Intern at Nuclearn (Summer 2026)
 - Undergraduate Researcher at the University of Arizona — building a Neo4j career-to-research knowledge graph
 
 ## Highlights
