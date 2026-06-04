@@ -22,5 +22,5 @@ Junior in Statistics and Data Science student in the Honors College at the Unive
 - **Mood to Music** — LLM-powered playlist recommender with persistent SQL-backed user history
 
 ## Contact
-- Email: [nathanieldemoro@gmail.com](mailto:nathanieldemoro@gmail.com)
-- Linkedin: [www.linkedin.com/in/natedemoro]
+- Email: nathanieldemoro@gmail.com
+- Linkedin: www.linkedin.com/in/natedemoro
