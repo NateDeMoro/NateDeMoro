@@ -15,12 +15,6 @@ Junior in Statistics and Data Science student in the Honors College at the Unive
 - **Data Engineering:** ETL pipelines, schema design, data cleaning & normalization, complex SQL, REST APIs (FastAPI, Flask), Docker
 - **Databases & Tools:** PostgreSQL, Neo4j, Cypher, AWS RDS, Git/GitHub, Linux, Railway, Vercel
 
-## Featured Projects
-- **Nuclear Derating Forecaster** — 2026 hackathon-winning forecasting project
-- **Career-to-Research Knowledge Graph** — Neo4j graph + FastAPI service mapping careers, skills, and academic research
-- **Movie Box Office Revenue Prediction** — XGBoost pipeline over 2,095 films with leakage-safe feature engineering
-- **Mood to Music** — LLM-powered playlist recommender with persistent SQL-backed user history
-
 ## Contact
 - Email: nathanieldemoro@gmail.com
 - Linkedin: www.linkedin.com/in/natedemoro
