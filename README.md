@@ -1,5 +1,5 @@
 # Nate DeMoro
-Junior in Statistics and Data Science student in the Honors College at the University of Arizona, with minors in Mathematics and Computer Science. Interested in machine learning, statistical modeling, and quantitative finance.
+Senior in Statistics and Data Science student in the Honors College at the University of Arizona, with minors in Mathematics and Computer Science. Interested in machine learning and software engineering. 
 
 ## Work
 - Software Engineering Intern at Nuclearn (Summer 2026)
