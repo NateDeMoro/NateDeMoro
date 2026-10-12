@@ -2,8 +2,8 @@
 Senior in Statistics and Data Science student in the Honors College at the University of Arizona, with minors in Mathematics and Computer Science. Interested in machine learning and software engineering. 
 
 ## Work
-- Software Engineering Intern at Nuclearn (Summer 2026)
-- Undergraduate Researcher at the University of Arizona — building a Neo4j career-to-research knowledge graph
+- Junior Software Engineer at Nuclearn AI
+- Undergraduate Researcher at the University of Arizona 
 
 ## Highlights
 - 1st place, Arizona 2026 Hackathon — *Nuclear Derating Forecaster*
